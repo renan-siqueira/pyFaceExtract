@@ -29,6 +29,16 @@ It supports processing multiple images concurrently for enhanced performance.
 
 ## Steps to Utilize:
 
+### 0. Cloning the Repository:
+
+Before you can utilize this project, you need to have a local copy. You can achieve this by cloning the repository:
+
+```bash
+$ git clone https://github.com/renan-siqueira/pyFaceExtraction.git
+```
+
+---
+
 ### 1. Setup:
 
 Ensure Python is installed on your system. If it's not, download and install the latest Python version from the official website.
