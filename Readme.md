@@ -1,7 +1,19 @@
-<p float="left">
-  <img src="original.png" width="250" height="400" /> 
-  <img src="faceExtract.png" width="400" height="400" />
-</p>
+<table>
+    <tr>
+        <td> <!-- Primeira imagem e legenda -->
+            <img src="original.png" width="49%" style="margin-right:2%;" />
+            <br>
+            <em>*Original Image</em>
+        </td>
+        <td> <!-- Segunda imagem e legenda -->
+            <img src="faceExtract.png" width="49%" />
+            <br>
+            <em>*Face extraction and centering</em>
+        </td>
+    </tr>
+</table>
+
+---
 
 # PyFaceExtract
 
