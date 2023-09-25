@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="original.png" width="400" height="400" /> 
+  <img src="original.png" width="250" height="400" /> 
   <img src="faceExtract.png" width="400" height="400" />
 </p>
 
