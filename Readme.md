@@ -1,14 +1,14 @@
 <table>
     <tr>
-        <td> <!-- Primeira imagem e legenda -->
-            <img src="original.png" width="49%" style="margin-right:2%;" />
+        <td align="center" valign="middle" width="40%"> <!-- Primeira imagem e legenda -->
+            <img src="original.png" style="max-height: 500px; margin-right: 1%; display: inline-block; vertical-align: middle;" />
             <br>
             <em>*Original Image</em>
         </td>
-        <td> <!-- Segunda imagem e legenda -->
-            <img src="faceExtract.png" width="49%" />
+        <td align="center" valign="middle" width="60%"> <!-- Segunda imagem e legenda -->
+            <img src="faceExtract.png" style="max-height: 750px; display: inline-block; vertical-align: middle;" />
             <br>
-            <em>*Face extraction and centering</em>
+            <em>*Face extraction</em>
         </td>
     </tr>
 </table>
