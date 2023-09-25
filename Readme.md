@@ -1,3 +1,8 @@
+<p float="left">
+  <img src="faceExtract.png" width="400" />
+  <img src="original.png" width="400" /> 
+</p>
+
 # PyFaceExtract
 
 ### Description:
